@@ -7,6 +7,7 @@ layout: default
 This is a small task management app aimed at the academic environment.
 
 It is made up of three fillable fields, these are:
+
 - Subject.
 - Task to be carried out.
 - Deadline.
