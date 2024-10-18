@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[return](./)
+[return](../)
 
 # Task Management App
 
