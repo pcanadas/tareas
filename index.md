@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: pages
 ---
-
 [return](../)
 
-# Task Management App
+# Task Management App /
 
 
 This is a small task management app aimed at the academic environment.
