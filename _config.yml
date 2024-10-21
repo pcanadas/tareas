@@ -2,4 +2,5 @@ title: Tareas
 description: Small task management app aimed at the academic environment
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+remote_theme: pcanadas/brown-orange-jekyll-theme
