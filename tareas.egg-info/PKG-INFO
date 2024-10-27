@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: tareas
+Version: 0.1.0
+Summary: A simple task manager
+Home-page: https://github.com/pcanadas/tareas
+Author: Patricia Cañadas
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+
+# Task Management App
+
+This is a small task management app aimed at the academic environment.
+
+It is made up of three fillable fields, these are:
+- Subject.
+- Task to be carried out.
+- Deadline.
+
+As you enter records, they appear in a list below the data entry box.
+There is the possibility of marking the task as done, deleting it or editing it.
+
+
