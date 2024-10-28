@@ -1,2 +1,2 @@
-SQLAlchemy
-flask
+SQLAlchemy~=2.0.21
+flask~=3.0.0
