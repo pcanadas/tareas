@@ -1,7 +1,0 @@
-__title__ = 'tareas'
-__version__ = '0.1.0'
-__author__ = 'Patricia Cañadas'
-__email__ = 'pcanadas15@gmail.com'
-__description__ = 'A simple task manager'
-__url__ = 'https://github.com/pcanadas/tareas'
-__license__ = 'MIT'
