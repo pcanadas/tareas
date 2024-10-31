@@ -19,3 +19,24 @@ Notice: This project was started while I was learning Python 3 and the Flask fra
 
 [img1]: /static/img/tareas.png
 [img2]: /static/img/tareas2.png
+
+### Getting Started
+These instructions will get you a working copy of the project on your local machine for development and testing purposes.<br> 
+See the installation instructions for notes on how to deploy the project to a live system.
+
+### Prerequisites
+Below you will find what I use to develop and run the project
+
+- Python 3
+- Flask
+- SQLite database
+- Virtualenv (not required, but highly recommended)
+
+### Installation
+I use Virtualenv to develop this project, so I recommend you create a virtual environment virtualenv venv and install the requirements pip install -r requirements.txt. Then, get a local copy of the project directory by cloning "tasks" from github.
+Lastly, run <code>python main.py</code>
+
+### Built with
+- Python 3 - Programming Language
+- Flask - Web Framework
+- SQLite - Database
