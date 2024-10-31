@@ -33,7 +33,7 @@ Below you will find what I use to develop and run the project
 - Virtualenv (not required, but highly recommended)
 
 ### Installation
-I use Virtualenv to develop this project, so I recommend you create a virtual environment virtualenv venv and install the requirements pip install -r requirements.txt. Then, get a local copy of the project directory by cloning "tasks" from github.
+I use Virtualenv to develop this project, so I recommend you create a virtual environment virtualenv venv and install the requirements <code>pip install -r requirements.txt</code>. Then, get a local copy of the project directory by cloning "tasks" from github.
 Lastly, run <code>python main.py</code>
 
 ### Built with
