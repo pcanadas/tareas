@@ -40,3 +40,9 @@ Lastly, run <code>python main.py</code>
 - Python 3 - Programming Language
 - Flask - Web Framework
 - SQLite - Database
+
+### Authors 
+**Patricia Cañadas** - *Initial Work* - [pcanadas](https://github.com/pcanadas)
+
+### License
+This project is licensed under the License GPL-3.0 license - see the LICENSE.md file for details
