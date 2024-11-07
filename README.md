@@ -24,7 +24,7 @@ Notice: This project was started while I was learning Python 3 and the Flask fra
 These instructions will get you a working copy of the project on your local machine for development and testing purposes.<br> 
 See the installation instructions for notes on how to deploy the project to a live system.
 
-### Prerequisites
+### Prerequisites :clipboard:
 Below you will find what I use to develop and run the project
 
 - Python 3
@@ -32,17 +32,17 @@ Below you will find what I use to develop and run the project
 - SQLite database
 - Virtualenv (not required, but highly recommended)
 
-### Installation
+### Installation :wrench:
 I use Virtualenv to develop this project, so I recommend you create a virtual environment virtualenv venv and install the requirements <code>pip install -r requirements.txt</code>. Then, get a local copy of the project directory by cloning "tasks" from github.
 Lastly, run <code>python main.py</code>
 
-### Built with
+### Built with :nut_and_bolt:
 - Python 3 - Programming Language
 - Flask - Web Framework
 - SQLite - Database
 
-### Authors 
+### Authors :black_nib:
 **Patricia Cañadas** - *Initial Work* - [pcanadas](https://github.com/pcanadas)
 
-### License
+### License :page_facing_up:
 This project is licensed under the License GPL-3.0 license - see the LICENSE.md file for details
